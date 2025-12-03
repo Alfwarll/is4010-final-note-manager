@@ -22,11 +22,13 @@ A command-line application for creating, listing, and searching personal notes. 
    cd is4010-final-note-manager
 
 2. Create a virtual environment:
+    ```bash
     python -m venv venv
     venv\Scripts\activate      # Windows
     # source venv/bin/activate  # macOS/Linux
 
 3. Install dependencies:
+    ```bash
     pip install -r requirements.txt
 
 ## Usage
