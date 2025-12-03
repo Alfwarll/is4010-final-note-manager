@@ -33,17 +33,17 @@ A command-line application for creating, listing, and searching personal notes. 
 
 ## Usage
 
-Add a new note:
+1. Add a new note:
     ```bash
     python src\main.py --add "My Note" "This is the content of my note."
 
-List all notes:
+2. List all notes:
     ```bash
     python src\main.py --list
     # Example output:
     # - My Note: This is the content of my note.
 
-Search for notes containing a keyword:
+3. Search for notes containing a keyword:
     ```bash
     python src\main.py --search "keyword"
     # Example output:
@@ -51,12 +51,12 @@ Search for notes containing a keyword:
 
 # Additional Examples
 
-Adding multiple notes:
+1. Adding multiple notes:
     ```bash
     python src\main.py --add "Shopping List" "Milk, Eggs, Bread"
     python src\main.py --add "Ideas" "Start a YouTube channel"
 
-Searching for a keyword
+2. Searching for a keyword
     ```bash
     python src\main.py --search "Eggs"
     # Example output:
