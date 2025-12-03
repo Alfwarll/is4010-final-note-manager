@@ -78,7 +78,7 @@ A command-line application for creating, listing, and searching personal notes. 
 
 ## Testing
 
-1. Run Tall tests locally:
+1. Run all tests locally:
     ```bash
     pytest -v
 
@@ -94,7 +94,7 @@ A command-line application for creating, listing, and searching personal notes. 
 
 ## AI-Assisted Development
 
-This project was developed with assistance from AI tools including GitHub Copilot, ChatGPT, and Gemini. For full details on AI usage, see AGENTS.md
+This project was developed with assistance from AI tools including GitHub Copilot, ChatGPT, and Gemini. For full details on AI usage, see [AGENTS.md] (AGENTS.md)
 
 ## License
 
