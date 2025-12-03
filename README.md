@@ -20,3 +20,17 @@ A command-line application for creating, listing, and searching personal notes. 
    ```bash
    git clone https://github.com/Alfwarll/is4010-final-note-manager.git
    cd is4010-final-note-manager
+
+2. Create a virtual environment:
+    python -m venv venv
+    venv\Scripts\activate      # Windows
+    # source venv/bin/activate  # macOS/Linux
+
+3. Install dependencies:
+    pip install -r requirements.txt
+
+## Usage
+
+
+
+
