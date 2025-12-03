@@ -62,6 +62,19 @@ A command-line application for creating, listing, and searching personal notes. 
     # Example output:
     # - Shopping List: Milk, Eggs, Bread
 
+## Features
+
+✅ Add new notes with a title and content
+
+✅ List all saved notes
+
+✅ Search notes by keyword
+
+✅ Stores notes locally in JSON format
+
+✅ Handles duplicate note titles gracefully
+
+✅ Simple and user-friendly CLI interface
 
 
 ## License
