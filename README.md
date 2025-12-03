@@ -33,6 +33,39 @@ A command-line application for creating, listing, and searching personal notes. 
 
 ## Usage
 
+Add a new note:
+    ```bash
+    python src\main.py --add "My Note" "This is the content of my note."
 
+List all notes:
+    ```bash
+    python src\main.py --list
+    # Example output:
+    # - My Note: This is the content of my note.
+
+Search for notes containing a keyword:
+    ```bash
+    python src\main.py --search "keyword"
+    # Example output:
+    # No matching notes found.
+
+# Additional Examples
+
+Adding multiple notes:
+    ```bash
+    python src\main.py --add "Shopping List" "Milk, Eggs, Bread"
+    python src\main.py --add "Ideas" "Start a YouTube channel"
+
+Searching for a keyword
+    ```bash
+    python src\main.py --search "Eggs"
+    # Example output:
+    # - Shopping List: Milk, Eggs, Bread
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
