@@ -76,6 +76,25 @@ A command-line application for creating, listing, and searching personal notes. 
 
 ✅ Simple and user-friendly CLI interface
 
+## Testing
+
+1. Run Tall tests locally:
+    ```bash
+    pytest -v
+
+2. Tests cover:
+
+    Adding notes
+
+    Listing notes
+
+    Searching notes
+
+    Edge cases like empty titles or missing content
+
+## AI-Assisted Development
+
+    This project was developed with assistance from AI tools including GitHub Copilot, ChatGPT, and Gemini. For full details on AI usage, see AGENTS.md
 
 ## License
 
