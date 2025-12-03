@@ -84,17 +84,17 @@ A command-line application for creating, listing, and searching personal notes. 
 
 2. Tests cover:
 
-    Adding notes
+   ✅ Adding notes
 
-    Listing notes
+   ✅ Listing notes
 
-    Searching notes
+   ✅ Searching notes
 
-    Edge cases like empty titles or missing content
+   ✅ Edge cases like empty titles or missing content
 
 ## AI-Assisted Development
 
-    This project was developed with assistance from AI tools including GitHub Copilot, ChatGPT, and Gemini. For full details on AI usage, see AGENTS.md
+This project was developed with assistance from AI tools including GitHub Copilot, ChatGPT, and Gemini. For full details on AI usage, see AGENTS.md
 
 ## License
 
